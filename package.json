@@ -18,6 +18,7 @@
     "express-validator": "^6.6.1",
     "http": "0.0.1-security",
     "mongoose": "^5.10.14",
+    "morgan": "^1.10.0",
     "ws": "^7.4.0"
   },
   "devDependencies": {
